@@ -12,5 +12,5 @@ An varied collection of projects that deals with many Modern Data technologies (
 10. Spark
 11. and more :)
 
-some of the projects just contain PDF files with screenshots of the commands used to work with the Data manaagment tool since much was done via the command line. 
+some of the projects just contain PDF files with screenshots of the commands used to work with the Data managment tool since much was done via the command line. 
 (In retrospect I could have made shell scripts, but I did these projects in a step by steo fashion :) )
