@@ -1,0 +1,8 @@
+.idea/
+target/
+*.csv
+*.iml
+*.txt
+node_modules/
+data/
+package-lock.json

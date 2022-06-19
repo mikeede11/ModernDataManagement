@@ -1,0 +1,24 @@
+{
+  "namespace": "Rule",
+  "type": "record",
+  "name": "Data",
+  "fields": [
+    {
+      "name": "sensor_id",
+      "type": "long"
+    },
+    {
+      "name": "time",
+      "type": "long"
+    },
+    {
+      "name": "status",
+      "type":  ["null", {
+                                  "type": "enum",
+                                  "name": "Alert",
+                                  "symbols": ["CRITICAL", "MINOR"]
+                              }
+                              ]
+    }
+  ]
+}
