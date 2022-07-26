@@ -8,7 +8,7 @@ An varied collection of projects that deals with many Modern Data technologies (
 6. Kafka
 7. MongoDB (MQL and Aggregation)
 8. Neo4J Graph Databases
-9. NodeJS Driver (with Mongo DBs)
+9. `NodeJS` Driver (with Mongo DBs)
 10. Spark
 11. and more :)
 
